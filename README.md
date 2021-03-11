@@ -1,6 +1,6 @@
-# https://sanfili.github.io/validation
+# [Посмотреть проект на GitHub Pages](https://sanfili.github.io/Validation)
 
-### Версия 3
+### Version 3
 
 ___
 
