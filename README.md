@@ -1,4 +1,4 @@
-# https://sanfili.github.io/
+# https://sanfili.github.io/validation
 
 ### Версия 3
 
